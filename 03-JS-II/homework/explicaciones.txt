@@ -1,0 +1,11 @@
+bucle for:
+
+el bucle for es una sintaxis, en la cual nos permite crear una variable, condicionarla e incrementarla, en la cual nos permitirá realizar determinada acción hasta que la condición que hayamos establecido sea verdadera, siempre tenemos que asegurarnos que haya una forma de que se cumpla la condición, porque podríamos terminar en un bucle infinito.
+
+operadores lógicos: 
+
+el operador && significa, AND, lo cual se usa para cuando establecemos dos expresiones, de las cuales, para que se realice una acción, tanto la primera como la segunda expresión tienen que ser verdaderas.
+
+el operador || significa OR, el cual, si la primera expresión es verdadera, no se evaluará la segunda, porque solo necesita que una U otra expresión, sean verdaderas, por lo que sería lo mismo si la primera fuese falsa, y la segunda verdadera.
+
+el operador ! significa NOT, se usa para decir que una expresión no es lo que determina, o su opuesto, por ejemplo, un NOT y una expresión entre paréntesis para tomar el todo de la expresión: !(2===3) = true, porque 2 no es igual a 3, por lo que sería falso, mientras que con el operador ! se leería como "no es 2 igual a 3" por lo que sería true.
