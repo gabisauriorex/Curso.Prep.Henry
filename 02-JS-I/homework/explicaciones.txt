@@ -1,0 +1,18 @@
+Variable: una variable, es una forma de guardar datos de diferentes tipos para usarlo cuando los necesitemos ya sean, texto, números, o valores como un verdadero o falso.
+
+Strings: los strings son un tipo de variable, que están compuestos solamente por texto y, que, este texto, tiene que estar si o si, entre comillas, pueden ser dobles o simples, por ejemplo "Hola, soy Gabriel." u 'Hola, soy Gabriel.'
+
+Funciones: las funciones, son un tipo de objeto, con estas, podemos hacer interactuar a las variables, por ejemplo, hagamos que una función nos sume, dos números, números que asignaremos 1  en cada variable. 
+
+Function SumarDosNumeros (a, b){ 
+var suma=a + b;
+return suma;
+}
+SumarDosNumeros(3,4); // 7
+
+La función comienza con "Function", luego de esto le ponemos un nombre a nuestra función, y ademas, las funciones nos permiten colocar variables dentro de ellas! asi que escribiremos las dos variables para nuestros dos números, a y b. Para que se haga una suma, crearemos otra variable que será igual a la suma de a y b, y un detalle muy importante, para que podamos obtener el resultado que está dentro de la función, se utiliza "return" y el nombre de la variable que queramos ver, por ejemplo "suma".
+Luego para devolvernos el resultado tenemos que escribir la función y los dos numeros que queremos sumar, separados entre comas y encerrados entre parentesis, y así, nos mostrará el resultado de esa suma, por ejemplo, 7.
+
+Declaracion If: el if se usa en las funciones para controlar y operar con las variables, if viene del inglés "Si", y lo usamos para verificar si determinada condición se cumple, y si así fuese, hacer determinada cosa, por ejemplo, "Si a>b, entonces, decimos que a es mayor que b" y si no fuese así, entonces podemos hacer que diga "a no es mayor que b"
+
+Valores Booleanos: los booleanos son un tipo de dato, que solo puede tener dos resultados, un si o no, un verdadero, o falso, o, un 0 o un 1.
