@@ -1,0 +1,1 @@
+arrays: los arrays o matrices, son como un estante, donde podemos guardar datos en un determinado orden, sin importar el tipo de dato que sea, para luego poder seleccionarlo y usarlo según el lugar que le asignamos.
