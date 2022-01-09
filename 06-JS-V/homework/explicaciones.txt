@@ -1,0 +1,2 @@
+prototype: los prototypes son una forma de ahorrar recursos en una computadora cuando se ejecuta un código, porque puede crear un método que puede ser utilizado en multiples objetos de clase sin la necesidad de escribirlo en cada uno de ellos.
+constructor: un constructor es un método utilizado para crear objetos a partir de una clase

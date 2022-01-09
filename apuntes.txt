@@ -1,0 +1,13 @@
+if(' '){
+	console.log('este codigo se ejecuta si es true');
+} else {
+	console.log('este codigo se ejecuta si es false');
+}
+
+// todos los numeros son true para JS, excepto el 0,
+// todas las strings son true, inclusive un espacio, excepto un string vacio: '', ""
+// == compara los valores, independientemente de su tipo y === compara valores del mismo tipo
+// AND Y &&
+//OR O ||
+//NOT NO !
+//una función dentro de un objeto se llama "Método"

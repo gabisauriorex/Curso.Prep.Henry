@@ -1,0 +1,5 @@
+objetos: son contenedores de datos, compuesto por propiedades, que pueden ser de cualquier tipo de datos, strings, integers, booleanos, etc.
+propiedades: se les denomina así a los datos que componen al objeto, su sintax es "key:value" y van separados entre sí por comas, siendo las keys únicas, o sea que, solo puede haber una key con el mismo nombre, mientras que pueden haber múltiples keys diferentes con mismos values.
+Métodos: se denomina método a una función que está guardada dentro de un objeto, siendo la key el nombre y el value la función a definir.
+Bucle 'For...In': el bucle for in es la forma de iterar sobre las propiedades de un objeto, como el bucle for con el índice numerico para las matrices.
+Notación de puntos vs notación de corchetes: la notación de puntos debe usarse cuando se conoce el nombre de la propiedad o cuando esta no está escrita con carácteres especiales como espacios o guiones, y la de corchetes cuando el nombre de la propiedad está dentro de una variable.

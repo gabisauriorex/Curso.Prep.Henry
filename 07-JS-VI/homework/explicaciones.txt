@@ -1,0 +1,1 @@
+callbacks: la función callback permite pasar como argumento a otra función, dentro de una función, la convención para los callbacks es usar cb como argumento para la variable que se usará como tal.
